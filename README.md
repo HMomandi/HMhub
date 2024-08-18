@@ -1,6 +1,6 @@
 <picture>
 
- <source media="(prefers-color-scheme: light)" srcset="D:\JDA Working Files\IMG_7194.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="D:\JDA Working Files\IMG_7527.JPG">
 
 </picture>
 
