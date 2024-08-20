@@ -12,7 +12,7 @@
 - ⚡ "Torture the data, and it will confess to anything."
 - 🚀 Aspiring Data Analyst | ML Enthusiast | Driving insightful solutions
 
-  | Rank | Languages |
+| Rank | Languages     |
 |-----:|---------------|
 |     1|   SQL         |
 |     2|  Pythone      |
