@@ -6,11 +6,16 @@
 
 ## About Me
 
-- 🔭 I am currently working on building ML models and dashboards to visualize key trends and graphs as part of the Data Analyst Program at NPower Canada.
-- 🌱 I am learning to create visuals using Matplotlib, build ELT pipelines, and develop dashboards.
-- 💬 I am an intuitive Data Analyst passionate about deriving insights and solutions for business problems.
+- 🔭 I am currently focused on building machine learning models and dashboards to visualize key trends and insights as part of my journey in the Data Analyst Program at NPower Canada.
+- 🌱 I am expanding my skill set by learning to create compelling visuals with Matplotlib, develop efficient ELT pipelines, and design interactive dashboards.
+- 💬 An intuitive Data Analyst, I am passionate about uncovering insights and crafting solutions to solve business problems. My favorite tools of the trade include Jupyter Notebook, Python, SQL, and R.
 - 📫 My favorite programming languages are Jupyter Notebook, Python, SQL, and R.
-- ⚡ My favorite quote: "Torture the data, and it will confess to anything."
+- ⚡ "Torture the data, and it will confess to anything."
+- 🚀 Aspiring Data Analyst | ML Enthusiast | Driving insightful solutions
+
+
+
+
 <!--
 **HMomandi/HMomandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
