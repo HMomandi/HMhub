@@ -1,8 +1,4 @@
-<picture>
 
- <source media="(prefers-color-scheme: light)" srcset="D:\JDA Working Files\IMG_7527.JPG">
-
-</picture>
 
 ## About Me
 
@@ -18,7 +14,7 @@
 | Rank | Languages     |
 |-----:|---------------|
 |     1|   SQL         |
-|     2|  Pythone      |
+|     2|  Python      |
 |     3|   R           |
 
 </details>
