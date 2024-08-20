@@ -9,7 +9,6 @@
 - 🔭 I am currently focused on building machine learning models and dashboards to visualize key trends and insights as part of my journey in the Data Analyst Program at NPower Canada.
 - 🌱 I am expanding my skill set by learning to create compelling visuals with Matplotlib, develop efficient ELT pipelines, and design interactive dashboards.
 - 💬 An intuitive Data Analyst, I am passionate about uncovering insights and crafting solutions to solve business problems. My favorite tools of the trade include Jupyter Notebook, Python, SQL, and R.
-- 📫 My favorite programming languages are Jupyter Notebook, Python, SQL, and R.
 - ⚡ "Torture the data, and it will confess to anything."
 - 🚀 Aspiring Data Analyst | ML Enthusiast | Driving insightful solutions
 
