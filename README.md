@@ -13,7 +13,7 @@
 - 🚀 Aspiring Data Analyst | ML Enthusiast | Driving insightful solutions
 
 <details>
-<summary>My top languages</summary>
+<summary>**My top languages**</summary>
 
 | Rank | Languages     |
 |-----:|---------------|
